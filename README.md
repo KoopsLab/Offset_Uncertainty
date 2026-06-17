@@ -13,8 +13,7 @@ Rscript02-Shiny_App.R - Shiny application
 
 Summary:
 This project provides a method to estimate biodiversity offset multipliers to account for uncertainty in project planning. A simulation study was conducted to test the efficacy of the approach.
-The full monitoring dataset is publicly available via Dryad:
-https://doi.org/10.5061/dryad.m905qfvdx
+
 Dependencies:
 Software
 R version 4.4.1
