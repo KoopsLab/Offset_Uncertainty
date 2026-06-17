@@ -8,9 +8,13 @@ DOI:
 
 Repository Contents:
 LICENSE - License agreement governing the use of this repository
+
 README.md - This file
+
 Rscript01-Uncertiainty_Multiplier_Sim.R - Functions and simulation code
+
 Rscript02-Shiny_App.R - Shiny application
+
 
 Summary:
 This project provides a method to estimate biodiversity offset multipliers to account for uncertainty in project planning. A simulation study was conducted to test the efficacy of the approach.
